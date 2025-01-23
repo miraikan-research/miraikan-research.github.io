@@ -1154,7 +1154,7 @@ ol {
 }
 
 .cs-text ul {
-	margin-bottom: 22px;
+	margin-bottom: 40px;
 }
 
 .cs-text ul li {
@@ -1182,7 +1182,6 @@ ol {
 }
 
 .cs-text .ct-links p {
-	font-size: 18px;
 	color: #171822;
 	line-height: 30px;
 	margin-top: 8px;
@@ -1293,6 +1292,12 @@ ol {
 	border: 1px solid #45464e;
 	border-radius: 50%;
 	margin-right: 15px;
+}
+
+.footer-text .ft-social a:hover {
+	background: -o-linear-gradient(330deg, #ee8425, #f9488b);
+	background: linear-gradient(120deg, #ee8425, #f9488b);
+	color: #ffffff;
 }
 
 .footer-text .ft-social a:last-child {
@@ -2233,7 +2238,7 @@ ol {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(0, 0, 0, 0.5);
+	background-color: rgba(0, 0, 0, 0.65);
 	z-index: 0; 
 }
 
