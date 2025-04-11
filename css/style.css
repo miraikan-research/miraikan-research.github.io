@@ -128,7 +128,7 @@ ol {
 
 .section-title {
 	text-align: center;
-	margin-bottom: 52px;
+	margin-bottom: 37px;
 }
 
 .section-title h2 {
@@ -1586,6 +1586,7 @@ ol {
 	font-weight: 700;
 	color: #171822;
 	margin-bottom: 10px;
+	margin-top: 15px;
 }
 
 .speaker-item {
