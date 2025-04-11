@@ -1779,6 +1779,12 @@ ol {
 	color: #a0a1b5;
 }
 
+.schedule-table-content .duration {
+    font-size: small;
+    color: #a0a1b5;
+	font-weight: normal;
+}
+
 .schedule-table-tab .schedule-table-content table tbody tr td.event-time {
 	width: 140px;
 	color: #f44949;
@@ -1805,6 +1811,10 @@ ol {
 
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover p span {
 	color: #ffffff;
+}
+
+.schedule-table-content td.hover-bg:hover .duration {
+    color: #ffffff;
 }
 
 /*---------------------
